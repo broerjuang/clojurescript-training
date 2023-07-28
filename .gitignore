@@ -1,0 +1,7 @@
+.calva
+public/js 
+public/main.js
+public/manifest.edn
+node_modules 
+.clj-kondo
+.shadow-cljs
